@@ -11,4 +11,6 @@
 
 ## 강화학습 (reinforced learning)
 일단 해보면서 경험을 통해 실력을 키워나가는 것
+
+에이전트가 환경에서 보상과 상태를 관찰해가며 행동을 취함으로써 변화를 준다. 여기서 보상을 얻은 행동을 기억하여 더 큰 보상을 얻기 위해 정책을 강화하고, 강화된 정책을 바탕으로 향상된 판단력으로 행동을 취한다.
 ![](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12365.jpeg)
