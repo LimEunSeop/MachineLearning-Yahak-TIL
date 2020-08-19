@@ -11,4 +11,4 @@
 
 ## 강화학습 (reinforced learning)
 일단 해보면서 경험을 통해 실력을 키워나가는 것
-[](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12365.jpeg)
+![](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12365.jpeg)
