@@ -9,4 +9,4 @@
 
 ## Tensorflow
 - [1일차](https://github.com/LimEunSeop/MachineLearning-Yahak-TIL/blob/master/day06-tensorflow-orientation.md) : Orientation
-- [2일차]() : 판다스, 딥러닝 실습1
+- [2일차-1](https://github.com/LimEunSeop/MachineLearning-Yahak-TIL/blob/master/%EC%8B%A4%EC%8A%B51_%ED%91%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%8F%84%EA%B5%AC_%ED%8C%90%EB%8B%A4%EC%8A%A4_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) : 표를 다루는 도구, '판다스'
