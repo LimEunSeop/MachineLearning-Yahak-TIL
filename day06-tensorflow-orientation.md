@@ -14,3 +14,6 @@ Neural Network(Deep Learning) 알고리즘으로 회귀, 분류 방법을 시행
 2. 모델의 구조를 만듭니다
 3. 데이터로 모델을 학습(FIT)합니다.
 4. 모델을 이용합니다.
+
+## 실습도구
+**Google Colaboratory** : print 를 통해 즉각적으로 한줄 한줄 출력값 확인이 가능하여 편하다.
