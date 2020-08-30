@@ -12,3 +12,4 @@
 - [7-1일차](https://github.com/LimEunSeop/MachineLearning-Yahak-TIL/blob/master/%EC%8B%A4%EC%8A%B51_%ED%91%9C%EB%A5%BC_%EB%8B%A4%EB%A3%A8%EB%8A%94_%EB%8F%84%EA%B5%AC_%ED%8C%90%EB%8B%A4%EC%8A%A4_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) : 표를 다루는 도구, '판다스'
 - [7-2일차](https://github.com/LimEunSeop/MachineLearning-Yahak-TIL/blob/master/%EC%8B%A4%EC%8A%B52_%EB%A0%88%EB%AA%A8%EB%84%A4%EC%9D%B4%EB%93%9C_%ED%8C%90%EB%A7%A4_%EC%98%88%EC%B8%A1_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb) : 첫번째 딥러닝 - 레모네이드 판매 예측
 - [8일차](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/practice3_boston_ipynb의_사본.ipynb) : 모델 관련 용어, 모델 학습 원리, 두번째 딥러닝 - 보스턴 집값 예측
+- [9일차]() : 원핫인코딩, 세번째 딥러닝 - 아이리스 품종 분류
