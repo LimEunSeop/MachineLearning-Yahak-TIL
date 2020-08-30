@@ -18,8 +18,9 @@
 - [부록2](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/appendix2_model_ipynb의_사본.ipynb) : 모델을 위한 팁 - 학습이 잘 되는 모델
 
 ## 수료증
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/certificate_machinelearning_yahak.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/certificate_machinelearning_yahak.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<div class="pdf-container"
+  data-file="https://raw.githubusercontent.com/LimEunSeop/TIL-MachineLearning-Yahak/2735d0145fe037b08bca59a576c6f3e064c2e795/certificate_machinelearning_yahak.pdf"
+  data-worker="/assets/pdf/worker-74f6ada26f303e3dea40bf637ea714a3ce5d617dacb7735f68e0eaa2759b6686.js"
+  data-bcmap-dir="https://render.githubusercontent.com/pdf/"
+>
+</div>
