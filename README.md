@@ -14,3 +14,4 @@
 - [8일차](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/practice3_boston_ipynb의_사본.ipynb) : 모델 관련 용어, 모델 학습 원리, 두번째 딥러닝 - 보스턴 집값 예측
 - [9일차](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/practice4_iris_ipynb의_사본.ipynb) : 원핫인코딩, 세번째 딥러닝 - 아이리스 품종 분류
 - [10일차](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/practice5_multilayer_ipynb의_사본.ipynb) : 네번째 딥러닝 - 신경망의 완성:히든레이어
+- [부록1](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/appendix1_data_ipynb의_사본.ipynb) : 데이터를 위한 팁 - 타입 조정, NaN 처리
