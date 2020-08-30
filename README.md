@@ -16,3 +16,6 @@
 - [10일차](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/practice5_multilayer_ipynb의_사본.ipynb) : 네번째 딥러닝 - 신경망의 완성:히든레이어
 - [부록1](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/appendix1_data_ipynb의_사본.ipynb) : 데이터를 위한 팁 - 타입 조정, NaN 처리
 - [부록2](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/appendix2_model_ipynb의_사본.ipynb) : 모델을 위한 팁 - 학습이 잘 되는 모델
+
+## 수료증
+![](https://github.com/LimEunSeop/TIL-MachineLearning-Yahak/blob/master/certificate_machinelearning_yahak.pdf)
